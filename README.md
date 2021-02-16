@@ -14,9 +14,9 @@ For each record it is provided:
 
 The dataset includes the following files:
 
-One summarized dataset : fitbit.txt
+One summarized dataset : tidydata.txt
 
-R file: Rptojectcleaningdata.R
+#R file: Rptojectcleaningdata.R
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -24,4 +24,36 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Codebook : Codebook.txt
+In the file there are 8 different tables.
+'features_info.txt': Shows information about the variables used on the feature vector.
+
+- 'features.txt': List of all features.
+
+- 'activity_labels.txt': Links the class labels with their activity name.
+
+- 'train/X_train.txt': Training set.
+
+- 'train/y_train.txt': Training labels.
+
+- 'test/X_test.txt': Test set.
+
+- 'test/y_test.txt': Test labels.
+
+- 'subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
+- 'subject_test.txt.'Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
+
+All tables that contain test have 2947 observations.
+
+All tables that contain train have 7352 observations.
+
+The whole dataframe called 'FitbitData' contain 10229 observations and 563 variables.
+
+The substracted tables 'FitbitDataSummarized' with standard deviation and mean contain 10229 observations and 89 variables.
+
+The summarized datafreame is called 'fitbit' and has 180 observations and 89 variables.
+
+
+
+
+#Codebook : Codebook.txt
