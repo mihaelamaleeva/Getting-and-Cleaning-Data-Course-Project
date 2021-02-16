@@ -16,7 +16,7 @@ The dataset includes the following files:
 
 One summarized dataset : tidydata.txt
 
-#R file: Rptojectcleaningdata.R
+# R file: Rptojectcleaningdata.R
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -56,4 +56,4 @@ The summarized datafreame is called 'fitbit' and has 180 observations and 89 var
 
 
 
-#Codebook : Codebook.txt
+# Codebook : Codebook.txt
