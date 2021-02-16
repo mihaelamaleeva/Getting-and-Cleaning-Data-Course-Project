@@ -16,7 +16,7 @@ The dataset includes the following files:
 
 One summarized dataset : tidydata.txt
 
-# R file: Rptojectcleaningdata.R
+# R file: run_analysis.R
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
