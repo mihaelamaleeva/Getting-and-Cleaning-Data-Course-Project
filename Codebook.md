@@ -1,6 +1,6 @@
 
 
-#The Rptojectcleaningdata.R script performs the following: 
+# The Rptojectcleaningdata.R script performs the following: 
 1. Download the zip file 
 2. Creating a list with the files in the zip folder
 3.Using unz to extract the 8 tables listed below.
