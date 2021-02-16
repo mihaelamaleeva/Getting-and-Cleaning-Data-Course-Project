@@ -1,5 +1,5 @@
 1. Download the zip file from : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-2. Unrar on your computer and import the data in R Global Enviroment
+2. Unzip the folder and extract the needed tables listed below.
 
 The Rptojectcleaningdata.R script performs the following: 
 
